@@ -1,0 +1,54 @@
+{
+    "format_version": 2,
+    "header": {
+        "name": "No More Dimensions",
+        "description": "By: IERICK05I",
+        "version": "1.0.0-Released",
+        "min_engine_version": [ 1, 21, 0 ],
+        "uuid": "6a6ff78e-2a8d-48d4-967d-98fbd6ea8122"
+    },
+    "modules": [
+        {
+            "type": "data",
+            "uuid": "6a1bde9a-2dfd-4d37-9002-f51a071f079c",
+            "version": "1.0.0-Released"
+        }
+    ],
+    "subpacks":[
+        {
+            "folder_name": "OW",
+            "name": "\nRemoves:\n§2Overworld §eDimension",
+            "memory_tier": 0
+        },
+        {
+            "folder_name": "NTR",
+            "name": "\nRemoves:\n§4Nether §eDimension",
+            "memory_tier": 0
+        },
+        {
+            "folder_name": "END",
+            "name": "\nRemoves:\n§5End §eDimension §c(except the portal)",
+            "memory_tier": 0
+        },
+        {
+            "folder_name": "OW+NTR",
+            "name": "\nRemoves:\n§2Overworld §eDimension\n§4Nether §eDimension",
+            "memory_tier": 0
+        },
+        {
+            "folder_name": "OW+END",
+            "name": "\nRemoves:\n§2Overworld §eDimension\n§5End §eDimension §c(except the portal)",
+            "memory_tier": 0
+        },
+        {
+            "folder_name": "NTR+END",
+            "name": "\nRemoves:\n§4Nether §eDimension\n§5End §eDimension §c(except the portal)",
+            "memory_tier": 0
+        },
+        {
+            "folder_name": "OW+NTR+END",
+            "name": "\nRemoves:\n§2Overworld §eDimension\n§4Nether §eDimension\n§5End §eDimension §c(except the portal)",
+            "memory_tier": 0
+        }
+    ]
+}
